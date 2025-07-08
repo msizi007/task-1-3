@@ -44,7 +44,7 @@ body{
     justify-content: center;
 }
 .col-4 img{
-    height: 98%;
+    width: 80%;
 }
 .col-8{
     background-color: #2e2929;
